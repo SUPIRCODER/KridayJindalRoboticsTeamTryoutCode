@@ -1,0 +1,18 @@
+{
+    "logging": {
+        "console": {
+            "enabled": true,
+            "level": "info"
+        },
+        "file": {
+            "enabled": true,
+            "level": "debug",
+            "fileName": "/home/lvuser/logs/robotLog.txt"
+        },
+        "advantageScope": {
+            "enabled": true,
+            "logPath": "/home/lvuser/logs/advantageScope"
+        }
+    },
+    "updateInterval": 20
+}
